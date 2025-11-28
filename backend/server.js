@@ -13,7 +13,7 @@ const app = express();
 // Мидлвэры
 app.use(
   cors({
-    origin: "https://shop-frontend.vercel.app"
+    origin: "https://web-shop-project-yyyl.vercel.app"
   })
 );
 app.use(express.json());
