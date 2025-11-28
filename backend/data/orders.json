@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1764089177166,
+    "userId": 1764089071447,
+    "items": [
+      {
+        "productId": 1,
+        "quantity": 1,
+        "price": 39990
+      },
+      {
+        "productId": 2,
+        "quantity": 1,
+        "price": 19990
+      }
+    ],
+    "address": "Учебный адрес",
+    "total": 59980,
+    "status": "created",
+    "date": "2025-11-25T16:46:17.166Z"
+  },
+  {
+    "id": 1764090804925,
+    "userId": 1764089071447,
+    "items": [
+      {
+        "productId": 3,
+        "quantity": 1,
+        "price": 54990
+      }
+    ],
+    "address": "Учебный адрес",
+    "total": 54990,
+    "status": "created",
+    "date": "2025-11-25T17:13:24.925Z"
+  }
+]

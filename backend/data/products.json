@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Ноутбук учебный 15\"",
+    "description": "Базовый ноутбук для учебы, 8GB RAM, 256GB SSD",
+    "price": 39990,
+    "image": "https://i.pinimg.com/736x/76/f9/d6/76f9d6a002f09fcca561ba318f42e691.jpg",
+    "brand": "",
+    "category_id": 1
+  },
+  {
+    "title": "Смартфон X100",
+    "description": "Быстрый смартфон с хорошей камерой",
+    "price": 19990,
+    "image": "https://img.freepik.com/free-psd/smartphone-mock-up_1310-812.jpg?size=626&ext=jpg",
+    "brand": "",
+    "category_id": 2
+  },
+  {
+    "title": "Ноутбук рабочий 15.6\"",
+    "description": "Intel Core i5, 16GB RAM, 1TB SSD, IPS Full HD",
+    "price": 54990,
+    "image": "https://i.pinimg.com/736x/76/f9/d6/76f9d6a002f09fcca561ba318f42e691.jpg",
+    "brand": "",
+    "category_id": 1
+  },
+  {
+    "title": "Смартфон Vivo X100 Pro",
+    "description": "6.78\" AMOLED, 16GB RAM, 50+64+50 МП камеры",
+    "price": 29990,
+    "image": "https://img.freepik.com/free-psd/smartphone-mock-up_1310-812.jpg?size=626&ext=jpg",
+    "brand": "",
+    "category_id": 2
+  },
+  {
+    "title": "Ноутбук бизнес класс 14\"",
+    "description": "Intel Core i7, 16GB RAM, 512GB SSD, защита TPM 2.0",
+    "price": 79990,
+    "image": "https://i.pinimg.com/736x/76/f9/d6/76f9d6a002f09fcca561ba318f42e691.jpg",
+    "brand": "",
+    "category_id": 1
+  },
+  {
+    "title": "Смартфон бюджетный Y15",
+    "description": "Экран 6.5\", 4GB RAM, 64GB, двойная камера",
+    "price": 10990,
+    "image": "https://img.freepik.com/free-psd/smartphone-mock-up_1310-812.jpg?size=626&ext=jpg",
+    "brand": "",
+    "category_id": 2
+  },
+  {
+    "title": "Ноутбук ультратонкий 13.3\"",
+    "description": "Intel Core i5, 8GB RAM, 512GB SSD, легкий корпус",
+    "price": 63990,
+    "image": "https://i.pinimg.com/736x/76/f9/d6/76f9d6a002f09fcca561ba318f42e691.jpg",
+    "brand": "",
+    "category_id": 1
+  },
+  {
+    "title": "Смартфон игровой G7",
+    "description": "Экран 6.7\" 120Hz, 12GB RAM, процессор Snapdragon 8 Gen 2",
+    "price": 44990,
+    "image": "https://img.freepik.com/free-psd/smartphone-mock-up_1310-812.jpg?size=626&ext=jpg",
+    "brand": "",
+    "category_id": 2
+  },
+  {
+    "title": "Ноутбук игровой HP OMEN 16 2025",
+    "description": "Мощный игровой ноутбук с Intel Core i9, RTX 5070, 32GB RAM, 1TB SSD, 16\" экран 2560×1600, 240 Гц",
+    "price": 189990,
+    "image": "https://i.pinimg.com/736x/76/f9/d6/76f9d6a002f09fcca561ba318f42e691.jpg",
+    "brand": "",
+    "category_id": 1
+  }
+]

@@ -1,0 +1,57 @@
+# --------------------
+# Node / NPM
+# --------------------
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+
+# --------------------
+# Environment
+# --------------------
+.env
+.env.local
+.env.*.local
+.vscode/
+
+# --------------------
+# Build / Output (Vercel билдит сам)
+# --------------------
+dist/
+build/
+*.log
+
+# --------------------
+# Frontend (Vite/React)
+# --------------------
+frontend/node_modules/
+frontend/.vite/
+frontend/.cache/
+
+# --------------------
+# Backend (Express / Node)
+# --------------------
+shop-backend-mvp/node_modules/
+shop-backend-mvp/.cache/
+
+# --------------------
+# IDE / Editor
+# --------------------
+*.sublime-project
+*.sublime-workspace
+.idea/
+.vscode/
+*.iml
+
+# --------------------
+# System files
+# --------------------
+.DS_Store
+Thumbs.db
+*.swp
+
+# --------------------
+# Misc
+# --------------------
+*.bak
+*.tmp

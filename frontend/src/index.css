@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+/* Глобальные стили */
+html, body {
+  @apply bg-gray-100 text-gray-900 font-sans;
+}
+
+button:hover {
+     cursor: pointer;
+}
+
+/* Контейнер */
+.container {
+  @apply max-w-7xl mx-auto px-4;
+}
+
+/* Карточки товаров */
+.product-card {
+  @apply bg-white rounded-lg shadow-md p-4 transition-transform hover:-translate-y-1 hover:shadow-lg cursor-pointer;
+}
+
+/* Кнопка */
+.btn-primary {
+  @apply bg-yellow-400 text-black font-semibold py-2 px-4 rounded-lg hover:bg-yellow-500 transition;
+}
+
+.btn-outline {
+  @apply  text-black font-semibold py-2 px-4 rounded-lg border-1 border-amber-700 hover:bg-yellow-700 transition;
+}
+
+
+/* Заголовки */
+.h1 {
+  @apply text-3xl font-bold mb-4;
+}
+.h2 {
+  @apply text-xl font-semibold mb-3;
+}
+
+/* Цена */
+.price {
+  @apply text-2xl font-bold text-gray-900;
+}
+
+/* Подписи */
+.text-muted {
+  @apply text-sm text-gray-500;
+}
