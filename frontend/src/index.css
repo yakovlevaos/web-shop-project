@@ -38,11 +38,6 @@ button:hover {
 /* Подписи */
 .text-muted { @apply text-sm text-gray-500; }
 
-/* -----------------------------
-   Адаптивность (минимальный вариант)
------------------------------- */
-
-/* Контейнер — мягкие отступы на мобильных */
 @media (max-width: 640px) {
   .container {
     padding-left: 1rem;
@@ -60,7 +55,7 @@ button:hover {
   display: block;
 }
 
-/* Сетка товаров (если без Tailwind) */
+/* Сетка товаров*/
 .product-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
